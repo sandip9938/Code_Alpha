@@ -1,0 +1,56 @@
+.button {
+    display: flex;
+    height: 100px;
+    width: 200px;
+    border: 6px solid black;
+padding: 2px;
+margin: 3px;
+border-radius: 5px;
+
+}
+.Top {
+  text-align: center;
+  font-size: 45px;
+}
+.btnc{
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+h2{
+ text-align: center;
+ font-size: 25px;
+}
+#grey{
+    background-color: #746e65;
+}
+#Blue{
+    background-color: #0505f8;
+}
+#Black{
+    background-color: #333232;
+}
+#Brown{
+    background-color: #d44f4f;
+}
+#Orange{
+    background-color: #d42929;
+}
+#Green{
+    background-color: #34f105;
+}
+#Yellow{
+    background-color: #f9cc05;
+}
+#Red{
+    background-color: #fb0101;
+}
+#Pink{
+    background-color: #de0584;
+}
+#Aqua{
+    background-color:#0bfff6 ;
+}
+#tan{
+    background-color: rgb(235, 222, 202);
+}
